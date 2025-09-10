@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\ultrasonic.obj" 
+TO ".\Objects\ultrasonic sensor" 
+PRINT(".\Listings\ultrasonic sensor.m51")
